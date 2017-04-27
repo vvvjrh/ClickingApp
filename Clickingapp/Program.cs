@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: ClickingApplication.Program
-// Assembly: ClickingApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: A3C8704B-24CE-43AF-86EC-AF00CE641DC1
-// Assembly location: D:\ClickingApp\ClickingApplication.exe
-
-using System.Drawing;
+﻿using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows.Forms;
