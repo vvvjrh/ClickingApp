@@ -1,0 +1,6 @@
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\bin\Debug\Clickingapp.exe.config
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\bin\Debug\Clickingapp.exe
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\bin\Debug\Clickingapp.pdb
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\obj\Debug\Clickingapp.csprojResolveAssemblyReference.cache
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\obj\Debug\Clickingapp.exe
+c:\users\jg045322\documents\visual studio 2015\Projects\Clickingapp\Clickingapp\obj\Debug\Clickingapp.pdb
